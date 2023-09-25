@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676814935414",
+    "project_id": "andy-64c60",
+    "storage_bucket": "andy-64c60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676814935414:android:9cc41df23b6d6c3d445657",
+        "android_client_info": {
+          "package_name": "com.example.andy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676814935414-p1dnh1877609d8b9sojfgll7tmejoqvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz3UlVkmLZjOBCv0uJU11IVAfZqlnd7W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676814935414-p1dnh1877609d8b9sojfgll7tmejoqvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

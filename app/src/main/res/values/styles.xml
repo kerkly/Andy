@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="android:background">@drawable/estilo_boton2</item>
+        <item name="icon">@drawable/nube</item>
+        <item name="iconGravity">start</item>
+    </style>
+</resources>
